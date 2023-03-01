@@ -1,0 +1,7 @@
+{
+  "conpolerOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}
+
